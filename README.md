@@ -6,7 +6,7 @@
 >
 > ## 📢 Join the Community!
 
-Discussion, questions, and collaboration for this project are hosted in our central community repo:  
+Discussion, questions, and collaboration for every project are hosted in our central community repo:  
 👉 [gatanegro/community](https://github.com/gatanegro/community/discussions)
 
 - Share discoveries, suggestions, and ideas.
@@ -21,6 +21,8 @@ Welcome to the central hub for multidisciplinary discussions, collaboration, and
 
 This community is designed to bring together researchers, enthusiasts, and collaborators from fields including physics, mathematics, quantum science, astrophysics, SETI, biology, cryptography, engineering, and more.
 
+### Please only discussions on main reasearch UNIFELD OSCILLATORY FIELD THEORY AND 3DCOM FRAMEWORK!
+
 ## 🚀 How to Participate
 
 - Browse or start discussions in the categories below.
@@ -32,7 +34,7 @@ This community is designed to bring together researchers, enthusiasts, and colla
 
 ## 📚 Discussion Categories
 
-| Category                               | Description                                                                                              |
+| Category                               | Description                                                                                               |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Theory & Frameworks                     | Foundational concepts, models, and theoretical approaches.                                               |
 | Quantum Science & Applications          | Quantum physics, quantum biology, quantum consciousness, related technology.                             |
@@ -55,3 +57,38 @@ This community is designed to bring together researchers, enthusiasts, and colla
 ---
 
 Thank you for being part of a collaborative, open research community!
+
+Direct links:
+
+https://github.com/gatanegro/Community/discussions/categories/artificial-satellites-space-debris
+
+https://github.com/gatanegro/Community/discussions/categories/astrophysics-cosmology
+
+https://github.com/gatanegro/Community/discussions/categories/biology-life-sciences
+
+https://github.com/gatanegro/Community/discussions/categories/cryptography-information-security
+
+https://github.com/gatanegro/Community/discussions/categories/feedback-suggestions-community
+
+https://github.com/gatanegro/Community/discussions/categories/help-questions
+
+https://github.com/gatanegro/Community/discussions/categories/ideas
+
+https://github.com/gatanegro/Community/discussions/categories/interdisciplinary-connections
+
+https://github.com/gatanegro/Community/discussions/categories/mathematics-computation
+
+https://github.com/gatanegro/Community/discussions/categories/new-materials-research
+
+https://github.com/gatanegro/Community/discussions/categories/prototypes-engineering-experiments
+
+https://github.com/gatanegro/Community/discussions/categories/q-a
+
+https://github.com/gatanegro/Community/discussions/categories/quantum-science-applications
+
+https://github.com/gatanegro/Community/discussions/categories/seti-non-natural-cosmic-resonance
+
+https://github.com/gatanegro/Community/discussions/categories/theory-frameworks
+
+
+
